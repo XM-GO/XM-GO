@@ -1,16 +1,13 @@
-### Hi there 👋
+   
+## Hi there 👋
 
-<!--
-**PandaGoAdmin/PandaGoAdmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+爱上编程，改变世界，我是熊猫，感觉不错给个Star
+**Languages**
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandaGoAdmin&hide=contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaGoAdmin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+| ---- | ---- |
