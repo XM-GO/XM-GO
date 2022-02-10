@@ -1,7 +1,8 @@
    
 ## Hi there 👋
 
-爱上编程，改变世界，我是熊猫，感觉不错给个Star
+如果觉得框架不错，或者已经在使用了，希望你可以去 <a target="_blank" href="https://github.com/PandaGoAdmin/PandaX">PandaX</a> 或者
+<a target="_blank" href="https://github.com/PandaGoAdmin/PandaUi">PandaUi</a> 帮我点个 ⭐ Star，这将是对我极大的鼓励与支持。
 
 **Languages**
 
